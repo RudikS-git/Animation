@@ -1,0 +1,14 @@
+C:\Users\rudik\source\repos\Laba4\Laba4\obj\Debug\Laba4.csprojAssemblyReference.cache
+C:\Users\rudik\source\repos\Laba4\Laba4\obj\Debug\MainWindow.g.cs
+C:\Users\rudik\source\repos\Laba4\Laba4\obj\Debug\App.g.cs
+C:\Users\rudik\source\repos\Laba4\Laba4\obj\Debug\Laba4_MarkupCompile.cache
+C:\Users\rudik\source\repos\Laba4\Laba4\obj\Debug\Laba4_MarkupCompile.lref
+C:\Users\rudik\source\repos\Laba4\Laba4\bin\Debug\Laba4.exe.config
+C:\Users\rudik\source\repos\Laba4\Laba4\bin\Debug\Laba4.exe
+C:\Users\rudik\source\repos\Laba4\Laba4\bin\Debug\Laba4.pdb
+C:\Users\rudik\source\repos\Laba4\Laba4\obj\Debug\MainWindow.baml
+C:\Users\rudik\source\repos\Laba4\Laba4\obj\Debug\Laba4.g.resources
+C:\Users\rudik\source\repos\Laba4\Laba4\obj\Debug\Laba4.Properties.Resources.resources
+C:\Users\rudik\source\repos\Laba4\Laba4\obj\Debug\Laba4.csproj.GenerateResource.cache
+C:\Users\rudik\source\repos\Laba4\Laba4\obj\Debug\Laba4.exe
+C:\Users\rudik\source\repos\Laba4\Laba4\obj\Debug\Laba4.pdb
